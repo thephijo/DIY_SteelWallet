@@ -12,5 +12,5 @@ A [seed phrase, seed recovery phrase or backup seed phrase](https://en.bitcoin.i
 Most people write down Seeds and phrases on paper but they can be stored in many other ways such as memorizing, engraving or stamping on metal. There are also [Methods that are not recommended](https://en.bitcoin.it/wiki/Seed_phrase#Methods_that_are_not_recommended). Seed phrases can however be stamped or engraved into metal which is significantly more durable than paper. Metal backups are recommended if the threat model involves fire, water, extremes of temperature or physical stress. Those metal devices are often refered to as steel wallets.
 
 [Jameson Lopp](https://jlopp.github.io/metal-bitcoin-storage-reviews/) provides an overview over some of the commercially available devices, which he has tested and evaluated. Commercially available devices cost between $20 and over $300, depending on the features, quality and finish. 
-
-
+Depending on whether only a seed or a seed plus password is used, two wallets are necessary for a complete backup. If two or three backups are to be kept in different locations, a plurality of wallets is required accordingly. As a student, I see a problem at this point: the whole business of storing bitcoin securely is going to be an expensive endeavor. 
+I would like to provide a solution to this problem: A DIY Steel wallet, which is as robust as possible, featurerich, easy to make yourself and inexpensive, even if several wallets are needed.
