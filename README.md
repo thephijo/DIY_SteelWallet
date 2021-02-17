@@ -1,5 +1,6 @@
 # DIY_SteelWallet
 An open DIY steel wallet device for securely storing Bitcoin and other cryptocurrency seeds
+Important: Decide for yourself if you trust your skills and the device you made: I do not give any warranty and reject any liability.
 
 # Introduction to steel wallets, seeds and Bitcoin wallet backups
 
@@ -14,3 +15,47 @@ Most people write down Seeds and phrases on paper but they can be stored in many
 [Jameson Lopp](https://jlopp.github.io/metal-bitcoin-storage-reviews/) provides an overview over some of the commercially available devices, which he has tested and evaluated. Commercially available devices cost between $20 and over $300, depending on the features, quality and finish. 
 Depending on whether only a seed or a seed plus password is used, two wallets are necessary for a complete backup. If two or three backups are to be kept in different locations, a plurality of wallets is required accordingly. As a student, I see a problem at this point: the whole business of storing bitcoin securely is going to be an expensive endeavor. 
 I would like to provide a solution to this problem: A DIY Steel wallet, which is as robust as possible, featurerich, easy to make yourself and inexpensive, even if several wallets are needed.
+
+# Features of DIY_SteelWallet
++ resistant to heat, corrosion and mechanical damage
++ metal plate visibility protection through 3d printed case
++ integrated tamper proof seal to enable the detection of a potential security risk
++ cheap and easy production
+
+# Tools and materials required
+
+Some Tools and materials are required for the DIY_SteelWallet that are listed in the following paragraph:
+
+Tools:
++ A 3d printer or access to a 3d printer: for making the case
++ A drill with metal drills (1.5 or 2mm): For attaching the metal plate, case and tamper proof seal
++ Letter Metal Stamps (60 * 6 * 1.5mm work very well): For engraving the seed into the metal plate
++ A hammer
++ A sturdy surface to hammer onto
++ Personal protective equipment (for your safety!)
+
+Material:
++ Sufficient ammount of filament for the 3d printer
++ Metal plate max. 50 * 70 * 2mm (a thinner metal plate will also work; See below for material choice)
++ tamper proof seals (preferably from [HIMEN: "AWS-06x7"](https://www.amazon.fr/plastique-métallique-HIMEN-numérotés-consécutivement/dp/B07VDYRMH5/))
+The case is designed so that the HIMEN AWS-06x7 fit perfectly. Other seals can also be used maybe with another variant of the case if required (different drills might be required then).
+
+Optional
++ A metal saw to saw the metal plates
++ Additional stick on tamper proof seals
+
+# Material for the steel plate
+
+The case only serves to avert curious glances from the metal plate. Together with the tamper proof seal, tampering attempts or attempts to read the seed can be detected. The resistance of the backup is ensured by the metal plate. Its material must be selected with great care.
+
+I recommend the materials titanium and stainless steel. For my two prototypes I chose:
++ titanium (grade 2) plates 
++ stainless steel (material number 1.4571 or also AISI 316 or V4A (X6CrNiMoTi17-12-2))
+
+Both materials are fairly resistant to mechanical damage and both choices are very corosion resistant. V4A is a bit harder to work with generally but both might be good for the intended purpose. Titanium is a bit more on the expensive side though.
+Rusting materials or materials that are not resistant to corrosion may be less suitable for the application (e.g. cast iron or mild steel). 
+I personally do not see corosion as very important in my threat model. An exception might be if the steel wallet is to be stored in a swimming pool or in the sea. However, I consider a fire in an apartment to be a realistic danger, in which extinguishing water can also play a role.
+
+In order to be able to assess the fire behavior of building components such as columns, ceilings or walls, certain standard characteristics of the fire progression have been agreed upon, with which uniform tests are possible. What is good enough for buildings should also be sufficient for bitcoins, which is why I use the relevant standards as a guide. The uniform temperature-time curve (ETK) was developed and prescribes the temperature and fire progression in which the fire behavior of a component is to be recorded and classified. Important fire tests that I know of are DIN 4102-2 or DIN EN 1363-1. 
+After skimming the standardized fires, some temperatures and times stand out: In a standardized fire, the temperature according to the unit temperature-time curve is about 842 °C after 30 minutes, about 1,006 °C after 90 minutes and about 1,110 °C after 180 minutes. Leaving the times aside, it can be stated that temperatures up to 1110 °C can obviously be reached and they are possibly an upper limit in residential buildings. So for our wallet roughly 1110 °C should be the lower limit that the material can endure for a longer time period.
+
