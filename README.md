@@ -36,7 +36,7 @@ A steel wallet that does not only protect our Seed from destruction but also pro
 Some Tools and materials are required for the DIY_SteelWallet that are listed in the following paragraph:
 
 Tools:
-+ A 3d printer or access to a 3d printer: for making the case
++ A 3d printer or access to a 3d printer: for making the case. You might want to use a 3d-print service if you don have access to a printer.
 + A drill with metal drills (1.5 or 2mm): For attaching the metal plate, case and tamper proof seal
 + Letter Metal Stamps (60 * 6 * 1.5mm work very well): For engraving the seed into the metal plate
 + A hammer
@@ -44,8 +44,8 @@ Tools:
 + Personal protective equipment (for your safety!)
 
 Material:
-+ Sufficient ammount of filament for the 3d printer
-+ Metal plate max. 50 * 70 * 2mm (a thinner metal plate will also work; See below for material choice: titanium or stainless steel might work best)
++ Sufficient ammount of filament for the 3d printer. 
++ Metal plate max. 50 * 70 * 1.5mm (a thinner metal plate will also work; See below for material choice: titanium or stainless steel might work best)
 + tamper proof seals (preferably from [HIMEN: "AWS-06x7"](https://www.amazon.fr/plastique-métallique-HIMEN-numérotés-consécutivement/dp/B07VDYRMH5/))
 The case is designed so that the HIMEN AWS-06x7 fit perfectly. Other seals can also be used maybe with another variant of the case if required (different drills might be required then).
 
@@ -57,7 +57,7 @@ Optional
 + A metal saw to saw the metal plates
 + Additional stick on tamper proof seals
 
-# Material for the steel plate
+# Material for the steel plate and engraving
 
 The case only serves to avert curious glances from the metal plate. Together with the tamper proof seal, tampering attempts or attempts to read the seed can be detected. The resistance of the backup is ensured by the metal plate. Its material must be selected with great care.
 
@@ -66,7 +66,7 @@ I recommend the materials titanium and stainless steel. For my two prototypes I 
 + stainless steel (material number 1.4571 or also AISI 316 or V4A (X6CrNiMoTi17-12-2))
 
 Both materials are fairly resistant to mechanical damage and both choices are very corosion resistant. V4A is a bit harder to work with generally but both might be good for the intended purpose. Titanium is a bit more on the expensive side though.
-Rusting materials or materials that are not resistant to corrosion may be less suitable for the application (e.g. cast iron or mild steel). 
+Rusting materials or materials that are not resistant to corrosion may be less suitable for the application (e.g. cast iron or construction steel). 
 I personally do not see corosion as very important in my threat model. An exception might be if the steel wallet is to be stored in a swimming pool or in the sea. However, I consider a fire in an apartment to be a realistic danger, in which extinguishing water can also play a role.
 
 In order to be able to assess the fire behavior of building components such as columns, ceilings or walls, certain standard characteristics of the fire progression have been agreed upon, with which uniform tests are possible. What is good enough for buildings should also be sufficient for bitcoins, which is why I use the relevant standards as a guide. The uniform temperature-time curve (ETK) was developed and prescribes the temperature and fire progression in which the fire behavior of a component is to be recorded and classified. Important fire tests that I know of are DIN 4102-2 or DIN EN 1363-1. 
@@ -75,6 +75,8 @@ After skimming the standardized fires, some temperatures and times stand out: In
 Aluminum has a melting point of approx. 660 ° C and is therefore to be regarded as unsuitable. 
 Even if [Jameson Lopp has had good experiences with copper](https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/safe-seed/), the melting point (1083 °C) appears to be too low to guarantee sufficient protection against long-term heat and fire.
 The melting point of titanium (1668 °C; roughly 1000 °C more than aluminium!) and stainless steel (1460 °C) appear to be much more suitable. 
+
+Judging by Jameson Lopp's test, the engraving of the metal plate by means of letter stamps is comparatively very reliable. For this reason, this method is used for the DIX_SteelWallet. Depending on the requirements, of course, another method can be used; after all, it's your bitcoin and it's your decision. I would choose a "Letter and Number Metal Stamp Set" of my choice and hammer the Seed into the plate. Technically the first 4 words would be sufficient according to BIP39 but I would rather be on the safe side and engrave the words completely. During engraving the metal plate can bend a bit, a few strokes with a hammer after every word using a flat surface reduces the bending. With engraving as a method however I do not see a way how the words could vanish under normal conditions.
 
 # DIY production - How To
 
@@ -119,7 +121,7 @@ Additionally (or in version D as a replacement to the seal) a tamper proof stick
 ![Image of SteelWallet2](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet1.jpeg)
 
 # About the project
-For me the project was primarily a leisure activity and an opportunity as a poor student to save some money on steel wallets, which I don't need, but wanted to have and give away to friends that are into crypto. In order to enable others to create such a wallet, I have created these instructions. I thought people might be interested in it and my extra work of documenting it might pay out for others. I sincerely hope that this is the case. I do not expect or demand any payment or donations as this is not the reason for the project, but of course I am happy about every contribution. Your free choice and no pressure. 
+For me the project was primarily a leisure activity and an opportunity as a poor student to save some money on steel wallets, which I don't need, but wanted to have and give away to friends that are into crypto. In order to enable others to create such a wallet, I have created these instructions. I thought people might be interested in it and my extra work of documenting it might pay out for others. I sincerely hope that this is the case. I do not expect or demand any payment or donations as this is not the reason for the project, but of course I am happy about every contribution. No matter how small I am happy about every Satoshi as a sign that the tutorial or the idea was helpful. Your free choice of course and no pressure at all. 
 
 BTC: bc1qfa2evgu9uzcargxpcgh6hpultsl043yukqjvaj
 
