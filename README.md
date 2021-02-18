@@ -63,3 +63,22 @@ Aluminum has a melting point of approx. 660 ° C and is therefore to be regarded
 Even if [Jameson Lopp has had good experiences with copper](https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/safe-seed/), the melting point (1083 °C) appears to be too low to guarantee sufficient protection against long-term heat and fire.
 The melting point of titanium (1668 °C; roughly 1000 °C more than aluminium!) and stainless steel (1460 °C) appear to be much more suitable. 
 
+# DIY production - How To
+
+After deciding which material to use for the plate and preparing the tools and materials, 3D printing can begin. To simplify the later stamping of the metal plate, the Stamping_Helper.obj can be printed from the [obj_files folder](https://github.com/thephijo/DIY_SteelWallet/tree/main/obj_files), but this is not mandatory. 
+
+![Image of StampingHelper](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/3dprinting/Stamping_Helper.jpg)
+
+Next, the case can be used to safely store the metal plate:
+If the HIMEN AWS-06x7 is available as a seal, the use of the case version VA_x is recommended, as everything will then fit perfectly without gaps. For other seals, the VB_x or VC_x versions can be used. Those cases are much thinner but the seal might stick out much more and the looks of it might suffer a bit. The VD_x version of the case has no hole for attaching a seal and can be used with tamper proof stick-on seals. In the folder [DIY_SteelWallet/images/3dprinting/](https://github.com/thephijo/DIY_SteelWallet/tree/main/images/3dprinting) you can find pictures of the respective versions. 
+
+![Image of VA](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/3dprinting/VersionA.1/Version_A1_04.jpg)
+
+
+
+Recommended and tested by me is the version A with the HIMEN AWS-06x7 seal shown above but other combinations probably also work. There is also a print file for version A. All versions are designed in such a way that printing on the only flat side without the need for bridging or something similar is possible without any problems. The alignment of the case on the print bed of the 3dprinter can be seen in the following picture:
+
+![Image of VA](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/3dprinting/print_direction.jpg)
+
+Again all of the pictures of the case Versions can be found [in the folder DIY_SteelWallet/images/3dprinting/](https://github.com/thephijo/DIY_SteelWallet/tree/main/images/3dprinting) and all the obj-files are in the [obj_files-folder](https://github.com/thephijo/DIY_SteelWallet/tree/main/obj_files)
+    
