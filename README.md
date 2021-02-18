@@ -121,8 +121,12 @@ Additionally (or in version D as a replacement to the seal) a tamper proof stick
 For me the project was primarily a leisure activity and an opportunity as a poor student to save some money on steel wallets, which I don't need, but wanted to have and give away to friends. In order to enable others to create such a wallet, I have created these instructions. I thought people might be interested in it. I do not expect any payment or donations as this is not the reason for the project, but of course I am happy about every contribution. 
 
 BTC: bc1qfa2evgu9uzcargxpcgh6hpultsl043yukqjvaj
+
 ![Image](https://abload.de/img/signal-2021-02-18-14nlj6a.jpeg)
+
 ETH: 0x2570CEa0f6cFFf156b0CB201184905Fb2d036e2f
+
 ![Image](https://abload.de/img/signal-2021-02-18-14gojij.jpeg)
+
 
 Hope you have fun building your own steel wallet! 
