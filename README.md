@@ -65,7 +65,8 @@ I recommend the materials titanium and stainless steel. For my two prototypes I 
 + titanium (grade 2) plates 
 + stainless steel (material number 1.4571 or also AISI 316 or V4A (X6CrNiMoTi17-12-2))
 
-Both materials are fairly resistant to mechanical damage and both choices are very corosion resistant. V4A is a bit harder to work with generally but both might be good for the intended purpose. Titanium is a bit more on the expensive side though.
+Both materials are fairly resistant to mechanical damage and both choices are very corosion resistant. V4A is a bit harder to work with generally but both might be good for the intended purpose. Titanium is poorly formable due to its hexagonal crystal structure and is therefore probably best suited to resist mechanical influences on the steel wallet. Titanium is a bit more on the expensive side though. Because weight saving is not relevant, if money is an issue, I would prefer stainless steel.
+
 Rusting materials or materials that are not resistant to corrosion may be less suitable for the application (e.g. cast iron or construction steel). 
 I personally do not see corosion as very important in my threat model. An exception might be if the steel wallet is to be stored in a swimming pool or in the sea. However, I consider a fire in an apartment to be a realistic danger, in which extinguishing water can also play a role.
 
