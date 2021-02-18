@@ -1,6 +1,7 @@
 # DIY_SteelWallet
-An open DIY steel wallet device for securely storing Bitcoin and other cryptocurrency seeds
+A free DIY steel wallet device for securely storing Bitcoin and other cryptocurrency seeds
 Important: Decide for yourself if you trust your skills and the device you made: I do not give any warranty and reject any liability.
+It should be seen as a fun project that saves some money. My guess is that if you have all the tools and calculate how much one DIY_SteelWallet would cost you it would be approx. 5€ or even less expensive. Considering the possible need of multiple steel wallets its far less expensive than commercially available product but not less secure (I hope) and quick and easy to make.
 
 # Introduction to steel wallets, seeds and Bitcoin wallet backups
 
@@ -27,7 +28,7 @@ A steel wallet that does not only protect our Seed from destruction but also pro
 + resistant to heat, corrosion and mechanical damage
 + metal plate visibility protection through 3d printed case
 + integrated tamper proof seal to enable the detection of a potential security risk
-+ cheap and easy production
++ cheap and easy production (I guess it is approx. 5€ or even less expensive)
 
 # Tools and materials required
 
@@ -115,3 +116,13 @@ Additionally (or in version D as a replacement to the seal) a tamper proof stick
 
 ![Image of SteelWallet](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet2.jpeg)
 ![Image of SteelWallet2](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet1.jpeg)
+
+# Contact, usage etc. 
+For me the project was primarily a leisure activity and an opportunity as a poor student to save some money on steel wallets, which I don't need, but wanted to have and give away to friends. In order to enable others to create such a wallet, I have created these instructions. I thought people might be interested in it. I do not expect any payment or donations as this is not the reason for the project, but of course I am happy about every contribution. 
+
+BTC: bc1qfa2evgu9uzcargxpcgh6hpultsl043yukqjvaj
+![Image](https://abload.de/img/signal-2021-02-18-14nlj6a.jpeg)
+ETH: 0x2570CEa0f6cFFf156b0CB201184905Fb2d036e2f
+![Image](https://abload.de/img/signal-2021-02-18-14gojij.jpeg)
+
+Hope you have fun building your own steel wallet! 
