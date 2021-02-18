@@ -44,7 +44,7 @@ Tools:
 
 Material:
 + Sufficient ammount of filament for the 3d printer
-+ Metal plate max. 50 * 70 * 2mm (a thinner metal plate will also work; See below for material choice)
++ Metal plate max. 50 * 70 * 2mm (a thinner metal plate will also work; See below for material choice: titanium or stainless steel might work best)
 + tamper proof seals (preferably from [HIMEN: "AWS-06x7"](https://www.amazon.fr/plastique-métallique-HIMEN-numérotés-consécutivement/dp/B07VDYRMH5/))
 The case is designed so that the HIMEN AWS-06x7 fit perfectly. Other seals can also be used maybe with another variant of the case if required (different drills might be required then).
 
