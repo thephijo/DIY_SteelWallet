@@ -17,6 +17,13 @@ Depending on whether only a seed or a seed plus password is used, two wallets ar
 I would like to provide a solution to this problem: A DIY Steel wallet, which is as robust as possible, featurerich, easy to make yourself and inexpensive, even if several wallets are needed.
 
 # Features of DIY_SteelWallet
+
+This is the result we want to achieve:
+
+A steel wallet that does not only protect our Seed from destruction but also protects it from third parties views in a tamper evident way.
+
+![Image of SteelWallet](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet2.jpeg)
+
 + resistant to heat, corrosion and mechanical damage
 + metal plate visibility protection through 3d printed case
 + integrated tamper proof seal to enable the detection of a potential security risk
@@ -39,6 +46,10 @@ Material:
 + Metal plate max. 50 * 70 * 2mm (a thinner metal plate will also work; See below for material choice)
 + tamper proof seals (preferably from [HIMEN: "AWS-06x7"](https://www.amazon.fr/plastique-métallique-HIMEN-numérotés-consécutivement/dp/B07VDYRMH5/))
 The case is designed so that the HIMEN AWS-06x7 fit perfectly. Other seals can also be used maybe with another variant of the case if required (different drills might be required then).
+
+See a picture of the recommended seal below:
+
+![Image of Seal](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/Seal.jpeg)
 
 Optional
 + A metal saw to saw the metal plates
@@ -82,3 +93,25 @@ Recommended and tested by me is the version A with the HIMEN AWS-06x7 seal shown
 
 Again all of the pictures of the case Versions can be found [in the folder DIY_SteelWallet/images/3dprinting/](https://github.com/thephijo/DIY_SteelWallet/tree/main/images/3dprinting) and all the obj-files are in the [obj_files-folder](https://github.com/thephijo/DIY_SteelWallet/tree/main/obj_files)
     
+After 3dprinting the case, the metal plate should be sawed to 50x70mm if not already done. It certainly does not hurt to try out whether the plate actually fits into the case. To be able to attach the seal later, the holes in the case must be reproduced congruently on the metal plate. 
+
+![Image of drilling](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/drilling.jpeg)
+
+The metal plate can be pushed into the case as far as it will go. Use a suitable drill to drill a hole through the case and the metal plate. For Case Version A a drill with a diameter of 1.5 or 2mm should be used, for Version B approx. 4mm, for Version C approx. 3mm.
+
+After this step, the seed or passphrase can be engraved or stamped into the metal plate. Then the seal is attached according to the pictures:
+
+![Image of manufacture1](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/assembly1.jpeg)
+
+![Image of manufacture2](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/assembly2.jpeg)
+
+![Image of manufacture3](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/assembly3.jpeg)
+
+![Image of manufacture4](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/assembly4.jpeg)
+
+Dont forget to lock the seal by pressing the red plastic part (requires some force).
+The seed or password is now ultimately located on a robust metal plate and is protected from views by the case in a secure and tamper-proof way.
+Additionally (or in version D as a replacement to the seal) a tamper proof sticker can be attached to the case.
+
+![Image of SteelWallet](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet2.jpeg)
+![Image of SteelWallet2](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet1.jpeg)
