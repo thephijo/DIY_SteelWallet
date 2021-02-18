@@ -3,6 +3,9 @@ A free DIY steel wallet device for securely storing Bitcoin and other cryptocurr
 Important: Decide for yourself if you trust your skills and the device you made: I do not give any warranty and reject any liability.
 It should be seen as a fun project that saves some money. My guess is that if you have all the tools and calculate how much one DIY_SteelWallet would cost you it would be approx. 5€ or even less expensive. Considering the possible need of multiple steel wallets its far less expensive than commercially available product but not less secure (I hope) and quick and easy to make.
 
+![Image of SteelWallet](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet2.jpeg)
+
+
 # Introduction to steel wallets, seeds and Bitcoin wallet backups
 
 Parts of the following information were taken from the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Bitcoin_Wiki:About) and partly adapted for this description.
@@ -22,8 +25,6 @@ I would like to provide a solution to this problem: A DIY Steel wallet, which is
 This is the result we want to achieve:
 
 A steel wallet that does not only protect our Seed from destruction but also protects it from third parties views in a tamper evident way.
-
-![Image of SteelWallet](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet2.jpeg)
 
 + resistant to heat, corrosion and mechanical damage
 + metal plate visibility protection through 3d printed case
