@@ -117,8 +117,8 @@ Additionally (or in version D as a replacement to the seal) a tamper proof stick
 ![Image of SteelWallet](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet2.jpeg)
 ![Image of SteelWallet2](https://raw.githubusercontent.com/thephijo/DIY_SteelWallet/main/images/SteelWallet1.jpeg)
 
-# Contact, usage etc. 
-For me the project was primarily a leisure activity and an opportunity as a poor student to save some money on steel wallets, which I don't need, but wanted to have and give away to friends. In order to enable others to create such a wallet, I have created these instructions. I thought people might be interested in it. I do not expect any payment or donations as this is not the reason for the project, but of course I am happy about every contribution. 
+# About the project
+For me the project was primarily a leisure activity and an opportunity as a poor student to save some money on steel wallets, which I don't need, but wanted to have and give away to friends that are into crypto. In order to enable others to create such a wallet, I have created these instructions. I thought people might be interested in it and my extra work of documenting it might pay out for others. I sincerely hope that this is the case. I do not expect or demand any payment or donations as this is not the reason for the project, but of course I am happy about every contribution. Your free choice and no pressure. 
 
 BTC: bc1qfa2evgu9uzcargxpcgh6hpultsl043yukqjvaj
 
