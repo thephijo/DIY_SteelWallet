@@ -142,4 +142,8 @@ A friend recommended posting also a lightning QR-Code. No Guarantee that it work
 
 For receiving Lightning-BTC I decided to try out Zebedee (Hope that works...): 
 
+lnurl1dp68gurn8ghj7ctsdyh85etzv4jx2efwd9hj7a3s9aex2ut4v4ehgttnw3shg6tr943ksctjvajhxtmpvyckvdnxvcuj6vnrvcmj6drpxumz6wp4xs6j6cfh8yexvcnyxdjxve3k3htrmh
+
+![Image](https://abload.de/img/zbd.ggfmj98.jpg)
+
 Hope you have fun building your own steel wallet! 
