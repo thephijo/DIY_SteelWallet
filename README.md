@@ -138,5 +138,10 @@ ETH: 0x2570CEa0f6cFFf156b0CB201184905Fb2d036e2f
 
 ![Image](https://abload.de/img/signal-2021-02-18-14gojij.jpeg)
 
+A friend recommended posting also a lightning QR-Code. No Guarantee that it works but I tried to manage setting that up. Learning about lightning is definately on my To-Do list. 
+
+Lightning-BTC: lnurl1dp68gurn8ghj7ctsdyh85etzv4jx2efwd9hj7a3s9aex2ut4v4ehgttnw3shg6tr943ksctjvajhxtmpvyckvdnxvcuj6vnrvcmj6drpxumz6wp4xs6j6cfh8yexvcnyxdjxve3k3htrmh
+
+![Image](https://abload.de/image.php?img=zbd.gg87kj1.jpg)
 
 Hope you have fun building your own steel wallet! 
