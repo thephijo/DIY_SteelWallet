@@ -124,8 +124,15 @@ Additionally (or in version D as a replacement to the seal) a tamper proof stick
 
 # Testing and reviewing DIY_SteelWallet 
 
-Of course, given the fact that not even all commercial products really work, the question arises whether the DIY_SteelWallet is really as secure and robust as intended. I don't usually have fires raging on my premises or the nearby river bursting its banks, and I'm not going to bring this about deliberately, so a test is still pending.
-If someone is willing to test the wallet, I am happy about feedback. I myself will perhaps seek a test in due course.
+Of course, given the fact that not even all commercial products really work, the question arises whether the DIY_SteelWallet is really as secure and robust as intended. I don't usually have fires raging on my premises or the nearby river bursting its banks, and I'm not going to bring this about deliberately, so a test under real life conditions is still pending.
+
+Fortunately Jameson Lopp  provides an overview over some of the available devices, which he has tested and evaluated. And even more fortunately he was willing to test the DIY_SteelWallet. Thanks Jameson, greatly appreciated, thanks for your work!
+You can find an overview over different (also DIY) devices here: [Jameson Lopp's list of seed storage devices](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
+
+[Jameson Lopp's DIY_SteelWallet review](https://jlopp.github.io/metal-bitcoin-storage-reviews/reviews/diy-steelwallet/)
+
+To my great joy he rated the DIY_Steel_Wallet 4 times A, so the device received the best grade availabe. It shows that one does not need to spend an awfull ammount of money to keep a seed safe that contains the awfull ammount of money (because one did not spend it on a piece of metal). ;-)
+Thanks again to Jameson Lopp who performed the test unbiased together with lots of other devices. There are also some great options that do not come with tamper evident features but that do not need a 3D-printer and are even cheaper. So you might want to visit his resources. 
 
 # About the project
 For me the project was primarily a leisure activity and an opportunity as a poor student to save some money on steel wallets, which I don't need, but wanted to have and give away to friends that are into crypto. In order to enable others to create such a wallet, I have created these instructions. I thought people might be interested in it and my extra work of documenting it might pay out for others. I sincerely hope that this is the case. I do not expect or demand any payment or donations as this is not the reason for the project, but of course I am happy about every contribution. No matter how small I am happy about every Satoshi as a sign that the tutorial or the idea was helpful. Your free choice of course and no pressure at all. 
@@ -134,13 +141,9 @@ BTC: bc1qfa2evgu9uzcargxpcgh6hpultsl043yukqjvaj
 
 ![Image](https://abload.de/img/signal-2021-02-18-14nlj6a.jpeg)
 
-ETH: 0x2570CEa0f6cFFf156b0CB201184905Fb2d036e2f
+A friend recommended posting also a lightning QR-Code. No Guarantee that it works but I tried to manage setting that up. Learning about lightning is definately on my To-Do list (Edit: done or on my way;-). 
 
-![Image](https://abload.de/img/signal-2021-02-18-14gojij.jpeg)
-
-A friend recommended posting also a lightning QR-Code. No Guarantee that it works but I tried to manage setting that up. Learning about lightning is definately on my To-Do list. 
-
-For receiving Lightning-BTC I decided to try out Zebedee (Hope that works...): 
+For receiving Lightning-BTC I decided to try out Zebedee (Hope that works... EDIT: It did. Thanks to the anonymous donor): 
 
 lnurl1dp68gurn8ghj7ctsdyh85etzv4jx2efwd9hj7a3s9aex2ut4v4ehgttnw3shg6tr943ksctjvajhxtmpvyckvdnxvcuj6vnrvcmj6drpxumz6wp4xs6j6cfh8yexvcnyxdjxve3k3htrmh
 
